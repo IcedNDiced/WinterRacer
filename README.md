@@ -3,6 +3,6 @@ Hi, its Iced
 
 Ik that the build isnt working right now and I am working on it.
 
-Sorry for the bad launch.
+Im working on fixing it right now.
 
-(Trust me, the map is pretty cool)
+Updates will be posted here...
